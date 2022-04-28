@@ -8,4 +8,4 @@
 
  <p align="center">I was most recently a 2x software engineering intern at Carta (formerly eShares), solving tough algorithmic transaction processing and money movement problems, and learning about system design and architecture! I also previously interned at NCR Corporation and Blackberry! 
   
-  <p align="center"><a href="https://linkedin.com/in/kaveenk"><img src="https://i.imgur.com/1HtFi4b.png"/></p>
+  <p align="center"><a href="https://linkedin.com/in/kaveenk"><img src="https://i.imgur.com/1HtFi4b.png" width="60" height="20"/></p>
